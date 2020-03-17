@@ -1,1 +1,1 @@
-# weather
+I created a weather app that displays a city's weather and highlights harmful UV index. Always remember sun screen! I was motivated to do this project, because I want to learn how to properly use APIs, AJAX, etc. I want it all to connect so I can start having creating things on my own. 
